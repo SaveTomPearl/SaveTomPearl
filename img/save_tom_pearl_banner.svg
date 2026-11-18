@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-labelledby="title description">
+  <title id="title">Save Tom Pearl</title>
+  <desc id="description">Help Tom Build a Better Life</desc>
+  <rect width="900" height="150" fill="#ff7900"/>
+  <text x="450" y="74" text-anchor="middle" fill="#fff34a" stroke="#8f4b00" stroke-width="1.5" paint-order="stroke" font-family="Arial, Helvetica, sans-serif" font-size="58" font-style="italic" font-weight="700">Save Tom Pearl</text>
+  <path d="M92 90h716" stroke="#fff34a" stroke-width="5"/>
+  <text x="450" y="128" text-anchor="middle" fill="#17110b" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">Help Tom Build a Better Life</text>
+</svg>
